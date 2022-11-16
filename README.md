@@ -1,3 +1,3 @@
 # docus-theaterpedia
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/github-hwxjzc)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/docus-theaterpedia)
