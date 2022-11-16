@@ -1,6 +1,6 @@
 export default defineAppConfig({
   docus: {
-    title: 'My Docs'
+    title: 'Kurs-Template'
   },
   domain: {
     textlogo: 'Theaterpedia',
