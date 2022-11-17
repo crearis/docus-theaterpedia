@@ -1,3 +1,3 @@
 # Dokumentation zu Theaterpedia
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/dokumentation-theaterpedia)
+[Edit on CodeSandbox](hhttps://codesandbox.io/p/github/crearis/docus-theaterpedia/dokumentation?file=%252Fcontent%252F0.index.md)
