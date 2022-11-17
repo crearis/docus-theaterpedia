@@ -1,5 +1,3 @@
-# docus-theaterpedia
+# Dokumentation zu Theaterpedia
 
-Docus added-on with tailwind theaterpedia-components (backslide, post-it, hero)
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/docus-theaterpedia)
+[Edit on CodeSandbox](hhttps://codesandbox.io/p/github/crearis/docus-theaterpedia/dokumentation?file=%252Fcontent%252F0.index.md)
